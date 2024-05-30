@@ -1,1 +1,1 @@
-主要是FGO的繁體中文版，flask介面WIP
+For FGO CHT，flask API is WIP.
